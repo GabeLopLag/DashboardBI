@@ -1,0 +1,59 @@
+.App{
+  display: grid;
+  grid-template-rows: repeat(6,1fr);
+  grid-template-columns: repeat(2,1fr);
+  justify-content: center;
+}
+.titulo1{
+  grid-column: 1/3;
+  grid-row: 1/2;
+  height: 10vh;
+}
+.tarjeta{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2vh;
+  margin: 10px 10px 10px 10px;
+  height: 60vh;
+  border-radius: 50px;
+background: #ffffff;
+box-shadow:  20px 20px 60px #d9d9d9, 
+             -20px -20px 60px #ffffff;
+}
+.grande{
+  height:108vh
+}
+.grafica1{
+  grid-column: 1/2;
+  grid-row: 1/2;
+}
+
+.grafica2{
+  grid-column: 2/3;
+  grid-row: 1/2;
+}
+
+.titulo2{
+  grid-column: 1/3;
+  grid-row: 3/4;
+}
+ .grafica3{
+  grid-column: 1/3;
+  grid-row: 2/4;
+}
+.grafica4{
+  grid-column: 2/3;
+  grid-row: 4/5;
+}
+/*
+.grafica5{
+  grid-column: 1/2;
+  grid-row: 3/4;
+  background-color: red;
+}
+.grafica6{
+  grid-column: 2/3;
+  grid-row: 3/4;
+  background-color: red;
+} */

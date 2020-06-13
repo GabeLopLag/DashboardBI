@@ -1,0 +1,35 @@
+.mainpage{
+  display: flex;
+  flex-direction: row;
+}
+
+.sidebar{
+  height: 100vh;
+  width: 10vw;
+  position: fixed;
+  background-color: #b2ebf2;
+  box-shadow:  10px 10px 30px #d9d9d9, 
+  -10px -10px 30px #ffffff;
+}
+
+.container{
+  width: 100%;
+  margin-left: 10vw;
+  height: 100vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.buttoncontainer{
+  display: flex;
+  flex-direction: column;
+}
+
+.boton-ruta{
+  height: 4em;
+  margin-top: 2em;
+  font-size: large;
+  background-color: #d9d9d9;
+  border: none;
+  text-decoration: none;
+}
