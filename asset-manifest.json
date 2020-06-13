@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/dashboard-bi/static/css/main.3947f261.chunk.css",
-    "main.js": "/dashboard-bi/static/js/main.5c2a093b.chunk.js",
-    "main.js.map": "/dashboard-bi/static/js/main.5c2a093b.chunk.js.map",
-    "runtime-main.js": "/dashboard-bi/static/js/runtime-main.424992f2.js",
-    "runtime-main.js.map": "/dashboard-bi/static/js/runtime-main.424992f2.js.map",
-    "static/css/2.7cbeb696.chunk.css": "/dashboard-bi/static/css/2.7cbeb696.chunk.css",
-    "static/js/2.8af60368.chunk.js": "/dashboard-bi/static/js/2.8af60368.chunk.js",
-    "static/js/2.8af60368.chunk.js.map": "/dashboard-bi/static/js/2.8af60368.chunk.js.map",
-    "index.html": "/dashboard-bi/index.html",
-    "precache-manifest.dc0e7a178724c62f8616b14684387949.js": "/dashboard-bi/precache-manifest.dc0e7a178724c62f8616b14684387949.js",
-    "service-worker.js": "/dashboard-bi/service-worker.js",
-    "static/css/2.7cbeb696.chunk.css.map": "/dashboard-bi/static/css/2.7cbeb696.chunk.css.map",
-    "static/css/main.3947f261.chunk.css.map": "/dashboard-bi/static/css/main.3947f261.chunk.css.map",
-    "static/js/2.8af60368.chunk.js.LICENSE.txt": "/dashboard-bi/static/js/2.8af60368.chunk.js.LICENSE.txt"
+    "main.css": "/DashboardBI/static/css/main.3947f261.chunk.css",
+    "main.js": "/DashboardBI/static/js/main.e722504b.chunk.js",
+    "main.js.map": "/DashboardBI/static/js/main.e722504b.chunk.js.map",
+    "runtime-main.js": "/DashboardBI/static/js/runtime-main.9c8b08e6.js",
+    "runtime-main.js.map": "/DashboardBI/static/js/runtime-main.9c8b08e6.js.map",
+    "static/css/2.7cbeb696.chunk.css": "/DashboardBI/static/css/2.7cbeb696.chunk.css",
+    "static/js/2.a6d1262b.chunk.js": "/DashboardBI/static/js/2.a6d1262b.chunk.js",
+    "static/js/2.a6d1262b.chunk.js.map": "/DashboardBI/static/js/2.a6d1262b.chunk.js.map",
+    "index.html": "/DashboardBI/index.html",
+    "precache-manifest.ed2bbb7fa4c3d3f8a3f4d34bbeb6c458.js": "/DashboardBI/precache-manifest.ed2bbb7fa4c3d3f8a3f4d34bbeb6c458.js",
+    "service-worker.js": "/DashboardBI/service-worker.js",
+    "static/css/2.7cbeb696.chunk.css.map": "/DashboardBI/static/css/2.7cbeb696.chunk.css.map",
+    "static/css/main.3947f261.chunk.css.map": "/DashboardBI/static/css/main.3947f261.chunk.css.map",
+    "static/js/2.a6d1262b.chunk.js.LICENSE.txt": "/DashboardBI/static/js/2.a6d1262b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.424992f2.js",
+    "static/js/runtime-main.9c8b08e6.js",
     "static/css/2.7cbeb696.chunk.css",
-    "static/js/2.8af60368.chunk.js",
+    "static/js/2.a6d1262b.chunk.js",
     "static/css/main.3947f261.chunk.css",
-    "static/js/main.5c2a093b.chunk.js"
+    "static/js/main.e722504b.chunk.js"
   ]
 }
